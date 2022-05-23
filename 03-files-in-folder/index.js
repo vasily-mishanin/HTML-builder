@@ -1,3 +1,4 @@
+// https://github.com/vasily-mishanin/HTML-builder
 const path = require('path');
 const fs = require('fs');
 const pathTargetDir = path.resolve(__dirname, 'secret-folder');
